@@ -1,0 +1,90 @@
+.sec{
+    background-color: rgb(136, 43, 12);
+}
+
+.h1{
+    text-align: center;
+    margin-top: auto;
+    /* text-decoration: double; */
+    color: rgb(14, 13, 13);
+    text-transform: initial;
+    text-decoration:underline;
+    
+
+}
+
+.inbox1{
+  height: 350px;
+}
+
+.sec1{
+    background-image: url(meals.jpg);
+    background-size: auto;
+    background-position: center;
+}
+
+.h2{
+   text-align: center;
+   color: rgb(5, 109, 6);
+  margin-top: 60px;
+  font-weight: bolder;
+  font-size: 50px;
+}
+
+.sec3{
+    background-color: black;
+}
+
+.sec2{
+    background-image: url(vegg.png);
+    background-size: auto;
+    background-position: center;
+}
+
+.img{
+   margin: auto;
+    text-align: right;
+}
+
+.inbox2{
+    height: 200px;
+}
+
+.d{
+    text-align: center;
+}
+
+.h3{
+    color: rgb(9, 10, 10);
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 75px;
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.hh{
+    font-weight: bolder;
+    color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 10px;
+}
+ 
+.p{
+    text-align: center;
+    font-size: medium;
+    color: black;
+}
+
+.sec4{
+    background-image: url(download.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.inbox3{
+    height: 300px;
+}
+
